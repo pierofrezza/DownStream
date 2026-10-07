@@ -99,5 +99,4 @@ DownStream does not claim ownership of third-party software and does not relicen
 ## Source and license availability
 
 For public redistribution of GPL/LGPL components, the corresponding source code, build information, and complete license texts must be made available in the manner required by the applicable license.
-
-See `SOURCE_COMPLIANCE.md` for the release-preparation checklist used for DownStream 1.0.0.
+The corresponding source materials and build information are provided in the DownStream-1.0.0-Third-Party-Source.zip asset of the DownStream 1.0.0 GitHub release.
