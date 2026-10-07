@@ -1,6 +1,13 @@
 # DownStream
 
 <p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="assets/icon-dark.png">
+    <img src="assets/icon-light.png" width="150" alt="DownStream">
+  </picture>
+</p>
+
+<p align="center">
   <strong>Analizza, configura e scarica flussi HLS con un'interfaccia macOS nativa.</strong><br>
   <strong>Analyze, configure and download HLS streams with a native macOS interface.</strong>
 </p>
@@ -21,6 +28,10 @@
 L'app riunisce analisi dei formati, selezione delle tracce, sottotitoli, profili, coda di download, recupero dei frammenti e creazione del file finale in un'unica interfaccia.
 
 DownStream utilizza diversi strumenti open source consolidati — tra cui yt-dlp, FFmpeg, mkvmerge, MP4Box e Subler — mantenendoli separati dal codice originale dell'interfaccia e del motore di orchestrazione dell'app.
+
+<p align="center">
+  <img src="assets/screenshot-it.png" width="850" alt="DownStream in italiano">
+</p>
 
 ## Funzioni principali
 
@@ -129,6 +140,10 @@ DownStream include componenti di terze parti soggetti alle rispettive licenze op
 It brings format analysis, track selection, subtitles, profiles, download queues, fragment recovery, and final-file creation into a single interface.
 
 DownStream uses established open-source tools — including yt-dlp, FFmpeg, mkvmerge, MP4Box, and Subler — while keeping those components separate from the app's original interface and orchestration code.
+
+<p align="center">
+  <img src="assets/screenshot-en.png" width="850" alt="DownStream in English">
+</p>
 
 ## Main features
 
