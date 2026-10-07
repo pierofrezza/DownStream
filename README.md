@@ -1,10 +1,9 @@
 # DownStream
 
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="assets/icon-dark.png">
-    <img src="assets/icon-light.png" width="150" alt="DownStream">
-  </picture>
+  <img src="assets/icon-light.png" width="150" alt="DisplayFormatManager Base">
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <img src="assets/icon-dark.png" width="150" alt="DisplayFormatManager Pro">
 </p>
 
 <p align="center">
